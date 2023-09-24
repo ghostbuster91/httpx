@@ -584,7 +584,7 @@
                             </buildArgs>
                             <metadataRepository>
                                 <enabled>true</enabled>
-                                <version>0.3.4</version>
+                                <localPath>${project.basedir}/config-directory/graalvm-reachability-metadata-0.3.4.zip</localPath>
                             </metadataRepository>
                         </configuration>
                         <executions>
